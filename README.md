@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rawnakchourasia
-- 👀 I’m interested in jQuery JavaScript, HTML, CSS, Java, Angular and React.
+- 👀 I’m interested in Flutter, React, Java, Angular, SQL and Node.
 - 📫 How to reach me - rnkchr0@gmail.com
 
 <!---
